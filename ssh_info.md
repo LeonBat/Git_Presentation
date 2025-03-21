@@ -16,7 +16,7 @@ It has a broad range of applications, like
 3. Access to remote files
 4. Safe creation of Backups
 
-
+The underlying model of SSH is the Server-Client Model. Your local machine represents the client and the other device (for example GitHub) represents the server
 
 
 SSH uses the idea of **asymmetric cryptography** and a **keypair**. 
